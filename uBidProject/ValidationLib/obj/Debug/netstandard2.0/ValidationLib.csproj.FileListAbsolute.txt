@@ -1,0 +1,16 @@
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\bin\Debug\netstandard2.0\ValidationLib.deps.json
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\bin\Debug\netstandard2.0\ValidationLib.dll
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\bin\Debug\netstandard2.0\ValidationLib.pdb
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.csproj.CoreCompileInputs.cache
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.AssemblyInfoInputs.cache
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.AssemblyInfo.cs
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.dll
+D:\jeff\Dropbox\CIS\CIDM\CIDM3312\Spring 2018\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.pdb
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\bin\Debug\netstandard2.0\ValidationLib.deps.json
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\bin\Debug\netstandard2.0\ValidationLib.dll
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\bin\Debug\netstandard2.0\ValidationLib.pdb
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.csproj.CoreCompileInputs.cache
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.AssemblyInfoInputs.cache
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.AssemblyInfo.cs
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.dll
+C:\CIDM3312\CIDM3312-Spring2018-InClass\MidTermSolution\ValidationLib\obj\Debug\netstandard2.0\ValidationLib.pdb

@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\bin\MCD\Debug\netstandard2.0\ValidationLib.deps.json
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\bin\MCD\Debug\netstandard2.0\ValidationLib.dll
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\bin\MCD\Debug\netstandard2.0\ValidationLib.pdb
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\obj\MCD\Debug\netstandard2.0\ValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\obj\MCD\Debug\netstandard2.0\ValidationLib.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\obj\MCD\Debug\netstandard2.0\ValidationLib.AssemblyInfo.cs
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\obj\MCD\Debug\netstandard2.0\ValidationLib.dll
+C:\Users\gabri\Documents\West Texas A&M University\Object Oriented Analysis and Design\uBidProject\ValidationLib\obj\MCD\Debug\netstandard2.0\ValidationLib.pdb

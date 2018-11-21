@@ -1,0 +1,42 @@
+@model UserModel
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-8">
+			<h3>
+				Login Status
+			</h3>
+            @if((bool)ViewData["IsLoggedIn"])
+            {
+                <p class="text-left">
+                    @Model.userName
+                </p> 
+                <p class="text-left text-success">                    
+                    @ViewData["LoginMessage"]
+                </p>
+                <a href="~/Home/Index" class="btn btn-primary" role="button">
+                    Home
+                </a>        
+                <a href="~/Login/Logout" class="btn btn-primary" role="button">
+                    Logout
+                </a>
+            }
+            else{
+                <p class="text-left">
+                    @Model.userName
+                </p> 
+                <p class="text-left text-danger">                    
+                    @ViewData["LoginMessage"]
+                </p>
+                <a href="~/Home/Index" class="btn btn-primary" role="button">
+                    Home
+                </a>                
+                <a href="~/Login/Login" class="btn btn-primary" role="button">
+                    Return to Login
+                </a>
+            }
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+</div>
