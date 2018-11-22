@@ -10,6 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using uBid.Models;
 
 
+
 namespace uBid
 {
     public class Startup
@@ -25,6 +26,7 @@ namespace uBid
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSession();
             services.AddDbContext<uBidContext>(options =>
                   options.UseSqlite("Data Source=uBid.db"));
         }
@@ -41,6 +43,7 @@ namespace uBid
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+            app.UseSession();           
 
             app.UseStaticFiles();
 

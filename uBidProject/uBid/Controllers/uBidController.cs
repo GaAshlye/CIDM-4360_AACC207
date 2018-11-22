@@ -23,7 +23,7 @@ namespace uBid.Controllers
 {
     public class uBidController : Controller
     {
-        #region "Scaffold"
+#region "Scaffold"
         private readonly uBidContext _context;
 
         public uBidController(uBidContext context)
@@ -76,6 +76,7 @@ namespace uBid.Controllers
             }
             return View(userModel);
         }
+        
 
         // GET: uBid/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -164,7 +165,7 @@ namespace uBid.Controllers
 #endregion
 
     //Login and logout session
-    #region "Login logout"
+#region "Login logout"
      public const string SESSION_LOGIN_KEY = "_UserLogin";
 
         [HttpGet]
