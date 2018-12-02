@@ -1,0 +1,78 @@
+@model uBidProjectIdentity.Models.ItemModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ItemModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.longDesc)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.longDesc)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.shortDesc)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.shortDesc)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.serialNum)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.serialNum)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.modelNum)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.modelNum)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.reservePrice)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.reservePrice)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.category)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.category)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.highestBid)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.highestBid)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.startTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.startTime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.endTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.endTime)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.itemID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

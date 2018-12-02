@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\gabri\\Documents\\West Texas A&M University\\Object Oriented Analysis and Design\\uBidProjectIdentity\\uBidProjectIdentity.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}
