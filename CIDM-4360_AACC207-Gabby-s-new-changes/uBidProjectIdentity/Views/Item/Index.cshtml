@@ -1,0 +1,89 @@
+@model IEnumerable<uBidProjectIdentity.Models.ItemModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.longDesc)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.shortDesc)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.serialNum)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.modelNum)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.reservePrice)
+                </th>
+                <th>                   
+                    @Html.DisplayNameFor(model => model.category)
+                </th>
+                <!-- <th>
+                    @Html.DisplayNameFor(model => model.highestBid)
+                </th> -->
+                <th>
+                    @Html.DisplayNameFor(model => model.startTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.endTime)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.longDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.shortDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.serialNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.modelNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.reservePrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category)
+            </td>
+            <!-- <td>
+                @Html.DisplayFor(modelItem => item.highestBid)
+            </td> -->
+            <td>
+                @Html.DisplayFor(modelItem => item.startTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.endTime)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.itemID">Place Bid</a> |
+                <a asp-action="Details" asp-route-id="@item.itemID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.itemID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

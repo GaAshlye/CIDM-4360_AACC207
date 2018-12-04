@@ -1,0 +1,13 @@
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\bin\Debug\netcoreapp2.0\app.db
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\bin\Debug\netcoreapp2.0\uBidProjectIdentity.deps.json
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\bin\Debug\netcoreapp2.0\uBidProjectIdentity.runtimeconfig.json
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\bin\Debug\netcoreapp2.0\uBidProjectIdentity.runtimeconfig.dev.json
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\bin\Debug\netcoreapp2.0\uBidProjectIdentity.dll
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\bin\Debug\netcoreapp2.0\uBidProjectIdentity.pdb
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\uBidProjectIdentity.csprojResolveAssemblyReference.cache
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\uBidProjectIdentity.csproj.CoreCompileInputs.cache
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\uBidProjectIdentity.AssemblyInfoInputs.cache
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\uBidProjectIdentity.AssemblyInfo.cs
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\uBidProjectIdentity.dll
+C:\Users\mc_wa\Desktop\OOAD\CIDM-4360_AACC207-Gabby-s-new-changes\CIDM-4360_AACC207-Gabby-s-new-changes\uBidProjectIdentity\obj\Debug\netcoreapp2.0\uBidProjectIdentity.pdb
